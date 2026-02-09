@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+.toolbar {
+  margin-bottom: 10px;
+}
+
+#board {
+  border: 2px solid black;
+  display: block;
+}
+
+.hint {
+  margin-top: 10px;
+  opacity: 0.7;
+}
